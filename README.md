@@ -1,6 +1,4 @@
-Here is a **clean, professional, no-emoji README** with formal definitions, examples, and clear structure suitable for submission and presentation.
 
----
 
 # Provisioning Amazon EKS using Terraform and Deploying a Kubernetes Application
 
