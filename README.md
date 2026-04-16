@@ -347,6 +347,7 @@ It highlights how modern cloud systems achieve scalability, automation, and reli
 <img width="1312" height="495" alt="Screenshot 2026-04-16 092200" src="https://github.com/user-attachments/assets/333193f3-c84d-45b8-ad8c-83a92da144f3" />
 <img width="1356" height="698" alt="Screenshot 2026-04-16 104516" src="https://github.com/user-attachments/assets/4972af90-03d3-43c9-b64b-3aa787250395" />
 
+<img width="1312" height="495" alt="Screenshot 2026-04-16 092200" src="https://github.com/user-attachments/assets/1b59b666-bc70-4b11-923c-4e3eed843b99" />
 
 
 
